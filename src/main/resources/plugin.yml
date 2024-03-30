@@ -1,0 +1,4 @@
+name: MobLimit
+version: '${project.version}'
+main: me.goarty.moblimit.MobLimit
+api-version: '1.20'
